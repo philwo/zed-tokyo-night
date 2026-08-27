@@ -45,11 +45,15 @@ count, or if any value is null or a malformed color.
 
 ### Tokyo Night Storm
 
-![tokyo-night-storm](./screenshots/Night_Storm.png)
+![tokyo-night-storm](./screenshots/Storm.png)
+
+### Tokyo Night Moon
+
+![tokyo-night-moon](./screenshots/Moon.png)
 
 ### Tokyo Night Light
 
-![tokyo-night-light](./screenshots/Night_Light.png)
+![tokyo-night-light](./screenshots/Light.png)
 
 ## Credits
 
