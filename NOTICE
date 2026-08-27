@@ -1,0 +1,16 @@
+Tokyo Night Themes for Zed
+
+Copyright (c) 2024 Austin Saunders (https://github.com/ssaunderss/zed-tokyo-night)
+Copyright (c) 2026 Philipp Wollermann (https://github.com/philwo/zed-tokyo-night)
+
+This extension is licensed under the MIT License. See LICENSE.
+
+The Tokyo Night color palettes originate from these projects:
+
+- Tokyo Night for VS Code by enkia, MIT License
+  https://github.com/enkia/tokyo-night-vscode-theme
+  Source of the Night, Storm, and Light palettes.
+
+- tokyonight.nvim by folke, Apache License 2.0
+  https://github.com/folke/tokyonight.nvim
+  Source of the Moon palette and the border highlight colors.
