@@ -88,7 +88,7 @@
         "terminal.foreground": "#787c99",
         "terminal.ansi.background": "#16161e",
         "terminal.bright_foreground": "#c0caf5",
-        "terminal.dim_foreground": "#51597d",
+        "terminal.dim_foreground": "#565f89",
         "terminal.ansi.black": "#363b54",
         "terminal.ansi.bright_black": "#363b54",
         "terminal.ansi.dim_black": "#262839",
@@ -129,7 +129,7 @@
         "hidden": "#787c99",
         "hidden.background": "#1a1b26",
         "hidden.border": "#414868",
-        "hint": "#51597d",
+        "hint": "#565f89",
         "hint.background": "#1a1b26",
         "hint.border": "#414868",
         "ignored": "#515670",
@@ -141,7 +141,7 @@
         "modified": "#e0af68",
         "modified.background": "#1a1b26",
         "modified.border": "#414868",
-        "predictive": "#51597d",
+        "predictive": "#565f89",
         "predictive.background": "#1a1b26",
         "predictive.border": "#414868",
         "renamed": "#9ece6a",
@@ -220,12 +220,12 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#51597d",
+            "color": "#565f89",
             "font_style": null,
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#51597d",
+            "color": "#565f89",
             "font_style": null,
             "font_weight": null
           },
@@ -380,7 +380,7 @@
             "font_weight": null
           },
           "comment.documentation": {
-            "color": "#51597d",
+            "color": "#565f89",
             "font_style": null,
             "font_weight": null
           },
@@ -585,7 +585,7 @@
             "font_weight": null
           },
           "predoc": {
-            "color": "#51597d",
+            "color": "#565f89",
             "font_style": null,
             "font_weight": null
           },
@@ -640,7 +640,7 @@
             "font_weight": null
           },
           "tag.doctype": {
-            "color": "#51597d",
+            "color": "#565f89",
             "font_style": null,
             "font_weight": null
           },

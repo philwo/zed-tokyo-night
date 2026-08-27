@@ -1,6 +1,6 @@
 id = "tokyo-night"
 name = "Tokyo Night Themes"
-version = "0.9.1"
+version = "0.9.2"
 schema_version = 1
 authors = ["ssaunderss <austinsaunders@me.com>", "Philipp Wollermann <philipp@philwo.de>"]
 description = "Tokyo Night Themes"
