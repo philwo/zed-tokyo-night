@@ -1289,7 +1289,26 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "editor.document_highlight.bracket_background": "#acb0bf40",
+        "editor.indent_guide": "#d0d4e3",
+        "editor.indent_guide_active": "#bdc1cf",
+        "pane_group.border": "#c1c2c7",
+        "panel.indent_guide": "#d0d4e3",
+        "panel.indent_guide_active": "#bdc1cf",
+        "panel.indent_guide_hover": "#bdc1cf",
+        "panel.overlay_background": "#cbccd1",
+        "terminal.ansi.background": "#cbccd1",
+        "version_control.added": "#485e30",
+        "version_control.conflict": "#5a4a78",
+        "version_control.deleted": "#8c4351",
+        "version_control.ignored": "#707280",
+        "version_control.modified": "#8f5e15",
+        "version_control.renamed": "#166775",
+        "version_control.added_background": "#d5d6db",
+        "version_control.conflict_background": "#d5d6db",
+        "version_control.deleted_background": "#d5d6db",
+        "version_control.modified_background": "#d5d6db"
       }
     },
     {
@@ -1924,7 +1943,26 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "editor.document_highlight.bracket_background": "#414868",
+        "editor.indent_guide": "#3b4261",
+        "editor.indent_guide_active": "#565f89",
+        "pane_group.border": "#1b1e2e",
+        "panel.indent_guide": "#3b4261",
+        "panel.indent_guide_active": "#565f89",
+        "panel.indent_guide_hover": "#565f89",
+        "panel.overlay_background": "#1f2335",
+        "terminal.ansi.background": "#1f2335",
+        "version_control.added": "#9ece6a",
+        "version_control.conflict": "#bb9af7",
+        "version_control.deleted": "#f7768e",
+        "version_control.ignored": "#8089b3",
+        "version_control.modified": "#e0af68",
+        "version_control.renamed": "#7dcfff",
+        "version_control.added_background": "#24283b",
+        "version_control.conflict_background": "#24283b",
+        "version_control.deleted_background": "#24283b",
+        "version_control.modified_background": "#24283b"
       }
     },
     {
@@ -2559,7 +2597,26 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "editor.document_highlight.bracket_background": "#444a73",
+        "editor.indent_guide": "#3b4261",
+        "editor.indent_guide_active": "#636da6",
+        "pane_group.border": "#1b1e2e",
+        "panel.indent_guide": "#3b4261",
+        "panel.indent_guide_active": "#636da6",
+        "panel.indent_guide_hover": "#636da6",
+        "panel.overlay_background": "#1e2030",
+        "terminal.ansi.background": "#1e2030",
+        "version_control.added": "#c3e88d",
+        "version_control.conflict": "#c099ff",
+        "version_control.deleted": "#ff757f",
+        "version_control.ignored": "#545c7e",
+        "version_control.modified": "#ffc777",
+        "version_control.renamed": "#86e1fc",
+        "version_control.added_background": "#222436",
+        "version_control.conflict_background": "#222436",
+        "version_control.deleted_background": "#222436",
+        "version_control.modified_background": "#222436"
       }
     }
   ]
