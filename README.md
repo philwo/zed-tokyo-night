@@ -14,6 +14,15 @@ with these changes:
   the canonical Tokyo Night palette colors of each variant.
 - Terminal foregrounds, dim ANSI colors, whitespace invisibles, and
   focused borders are defined instead of falling back to Zed defaults.
+- Parameters use the upstream yellow and comments are italic, as in
+  the VS Code theme and tokyonight.nvim.
+- Diff and version control hunk backgrounds are tinted with the
+  tokyonight.nvim 4.0 overlay colors (enkia's overlays for Light)
+  instead of the plain background.
+- The Moon editor foreground uses folke's fg `#c8d3f5` instead of the
+  dim fg_dark, and Storm comments use `#565f89`.
+- Focused pane borders and element hover and selection fills use
+  palette colors instead of leftovers from the original port.
 - `scripts/check_variants.py` verifies that the variants stay in sync.
 
 ## Install
