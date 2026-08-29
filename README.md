@@ -1,7 +1,8 @@
 # zed-tokyo-night
 
-Tokyo Night themes for the Zed editor, with four variants: Night,
-Storm, Moon, and Light.
+Tokyo Night themes for the Zed editor, with five variants: Night,
+Storm, Moon, Day (folke's light palette), and Light (enkia's light
+palette).
 
 This is a fork of
 [ssaunderss/zed-tokyo-night](https://github.com/ssaunderss/zed-tokyo-night)
@@ -23,6 +24,9 @@ with these changes:
   dim fg_dark, and Storm comments use `#565f89`.
 - Focused pane borders and element hover and selection fills use
   palette colors instead of leftovers from the original port.
+- A Day variant derived from the Night variant via folke's Day
+  palette, matching the Day theme of the tokyo-night-islands
+  JetBrains plugin.
 - `scripts/check_variants.py` verifies that the variants stay in sync.
 
 ## Install
@@ -69,7 +73,7 @@ count, or if any value is null or a malformed color.
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme):
   the original Tokyo Night theme and the Night, Storm, and Light palettes (MIT).
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim):
-  the Moon palette (Apache 2.0).
+  the Moon and Day palettes (Apache 2.0).
 - [ssaunderss](https://github.com/ssaunderss): the original Zed port (MIT).
 
 See NOTICE for details.

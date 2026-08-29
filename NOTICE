@@ -13,4 +13,5 @@ The Tokyo Night color palettes originate from these projects:
 
 - tokyonight.nvim by folke, Apache License 2.0
   https://github.com/folke/tokyonight.nvim
-  Source of the Moon palette and the border highlight colors.
+  Source of the Moon and Day palettes, the diff overlay recipe, and
+  the border highlight colors.
